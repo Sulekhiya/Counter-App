@@ -35,6 +35,7 @@ class Counter extends Component {
         >
           Delete Me
         </button>
+        <br />
       </React.Fragment>
     );
   }
